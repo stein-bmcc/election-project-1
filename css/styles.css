@@ -44,6 +44,8 @@ main section ul li {
 
 img {
     height:auto;
+    width: auto;
+    max-width: 100%;
 }
 
 /** HEADER STYLES **/
